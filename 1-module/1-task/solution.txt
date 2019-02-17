@@ -4,6 +4,6 @@ James
 John
 Robert
 Joseph
-// Richard
+Richard
 James
 Michael
